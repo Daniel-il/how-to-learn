@@ -1,0 +1,8 @@
+.logo_theme_dark{
+  opacity: .5;
+  background-image: url(/images/logo_white.svg);
+  background-size: cover;
+  width: 183px;
+  height: 32px;
+}
+
