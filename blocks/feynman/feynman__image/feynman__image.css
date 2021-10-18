@@ -1,10 +1,8 @@
 .feynman__image {
-  background-image: url(/images/feinman.png);
-  background-size: cover;
   display: flex;
   position: absolute;
   z-index: -1;
   bottom: 0;
   height: 637px;
-  width:867px;
+  width: 867px;
 }
