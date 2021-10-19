@@ -7,4 +7,5 @@
   box-sizing: border-box;
   z-index: 1;
   list-style-type: none;
+  padding: 0;
 }
